@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.21481481481481482" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.16510416666666666" />
+        <entry key="app/src/main/res/drawable/bg_feeds.xml" value="0.21203703703703702" />
+        <entry key="app/src/main/res/drawable/emoji_people.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/drawable/ic_account_circle.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/drawable/ic_baseline_cloud_24.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.21574074074074073" />
+        <entry key="app/src/main/res/drawable/ic_newsfeed.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/drawable/ic_save_news.xml" value="0.21203703703703702" />
+        <entry key="app/src/main/res/drawable/ic_search_news.xml" value="0.21203703703703702" />
+        <entry key="app/src/main/res/drawable/ic_share_24.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/drawable/newspaper_black_24dp.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/drawable/thermostat_black_24dp.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/drawable/water_drop.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/layout/fragment_article.xml" value="0.14895833333333333" />
+        <entry key="app/src/main/res/layout/fragment_feeds.xml" value="0.22691292875989447" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.41048211599060425" />
+        <entry key="app/src/main/res/layout/fragment_saved.xml" value="0.19360829169734664" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.14895833333333333" />
+        <entry key="app/src/main/res/layout/fragment_weather.xml" value="0.2395543175487465" />
+        <entry key="app/src/main/res/layout/item_preview_article.xml" value="0.36561264822134387" />
+        <entry key="app/src/main/res/layout/item_preview_forecase_daily.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_preview_hourly_forecase.xml" value="0.23162393162393163" />
+        <entry key="app/src/main/res/layout/item_preview_save.xml" value="0.32152685975773054" />
+        <entry key="app/src/main/res/menu/app_bar_menu.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/menu/nav_btn_menu.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1574074074074074" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21574074074074073" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

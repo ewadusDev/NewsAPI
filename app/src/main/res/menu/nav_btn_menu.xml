@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/feedsFragment"
+        android:icon="@drawable/newspaper_black_24dp"
+        android:title="Feeds" />
+    <item
+        android:id="@+id/savedFragment"
+        android:icon="@drawable/ic_save_news"
+        android:title="Saved" />
+    <item
+        android:id="@+id/weatherFragment"
+        android:icon="@drawable/thermostat_black_24dp"
+        android:title="Weather" />
+
+</menu>
